@@ -23,7 +23,7 @@
 "หากเจอ Error `UnsupportedClassVersionError` ให้เช็กว่าใช้ Java 17 ในการรัน"
 "ตัวอย่างนี้ยังไม่รองรับภาษาไทย"
 
-## ตัวอย่าง JSON
+## ตัวอย่าง JSON Input
    ```bash
    {
        "customerName": "chalermchai Trithavronwong",
