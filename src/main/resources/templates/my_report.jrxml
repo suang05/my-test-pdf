@@ -49,9 +49,9 @@
 			<staticText>
 				<reportElement x="0" y="0" width="550" height="40" uuid="e3b6de79-a485-4e50-bc62-66575c5af59b"/>
 				<textElement textAlignment="Center" verticalAlignment="Middle">
-					<font fontName="Angsana New" size="18" isBold="true"/>
+					<font fontName="TH Sarabun New" size="18" isBold="true"/>
 				</textElement>
-				<text><![CDATA[Receipt]]></text>
+				<text><![CDATA[Receipt ใบเสร็จรับเงิน]]></text>
 			</staticText>
 		</band>
 	</title>

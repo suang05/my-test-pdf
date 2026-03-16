@@ -51,6 +51,18 @@
 		    <artifactId>jasperreports</artifactId>
 		    <version>6.20.0</version>
 		</dependency>
+		
+		<dependency>
+		    <groupId>com.example</groupId>
+		    <artifactId>th-sarabun-font</artifactId>
+		    <version>1.0</version>
+		</dependency>
+		
+		<dependency>
+		    <groupId>jakarta.annotation</groupId>
+		    <artifactId>jakarta.annotation-api</artifactId>
+		    <version>3.0.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
