@@ -19,6 +19,10 @@
    ```bash
    http://localhost:8080/api/v1/documents/receipt
 
+### ข้อแนะนำ 
+"หากเจอ Error `UnsupportedClassVersionError` ให้เช็กว่าใช้ Java 17 ในการรัน"
+"ตัวอย่างนี้ยังไม่รองรับภาษาไทย"
+
 ## ตัวอย่าง JSON
    ```bash
    {
@@ -40,5 +44,4 @@
        "totalAmount": 47100.00
    }
 
-### ข้อแนะนำ 
-"หากเจอ Error `UnsupportedClassVersionError` ให้เช็กว่าใช้ Java 17 ในการรัน"
+
